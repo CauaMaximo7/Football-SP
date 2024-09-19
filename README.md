@@ -27,11 +27,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 👥 Autores
-
+- [@CauaMaximo7](https://www.github.com/CauaMaximo7)
 - [@mathsouto](https://www.github.com/mathsouto)
 
 
-Para mais informações, entre em contato através do tetisouto@gmail.com.
+Para mais informações, entre em contato através do tetisouto@gmail.com ou cauamaximo35@gmail.com.
 
 Agradecemos por seu interesse no projeto Football SP! Esperamos que você aproveite explorando a história do futebol em São Paulo.
 
