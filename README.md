@@ -1,7 +1,7 @@
 
 # Football SP
 
-Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhembi Morumbi (UAM).
+Projeto desenvolvido durante o curso de Análise e Desenvolvimento de Sistemas (ADS) e Ciência da computação na Universidade Anhembi Morumbi (UAM).
 
 O Football SP tem o objetivo de explorar a rica história do futebol em São Paulo, com um resumo das origens e momentos memoráveis da história e times que o moldaram. Desde sua introdução por Charles Miller até o estabelecimento de alguns clubes icônicos.
 
